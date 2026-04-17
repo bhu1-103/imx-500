@@ -60,3 +60,9 @@
 - [x] Research tiny language models to convert a scene into a short sentence
 - [ ] Get int4 optimized distilgpt-2 working on raspberry pi zero 2 w
 - [x] Added requirements file to get the working environment
+
+## Apr-1702026
+
+- [x] Started creating dataset in RoboFlow using manual labeling
+- [ ] Fine tune yolo to recorgize Road Fighter (video game) Sprites
+- [x] Record video of the game in integer scaled resolution
