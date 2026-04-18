@@ -44,7 +44,7 @@
 - [x] Research what the novelty should be -> First Person Fight Assist System
 - [x] Source data for first person fighting from somewhere -> Video games like dying light should do
 - [x] Source data for roads segmentation model that can help us make a model that will segmnent roads using yolo11-n-seg
-- [ ] Develope the models
+- [ ] Develope the models **Started on [Apr-18-2026](./timeline.md#Apr-18-2026)
 
 ## Jan-26-2026
 
@@ -61,8 +61,16 @@
 - [ ] Get int4 optimized distilgpt-2 working on raspberry pi zero 2 w
 - [x] Added requirements file to get the working environment
 
-## Apr-1702026
+## Apr-17-2026
 
 - [x] Started creating dataset in RoboFlow using manual labeling
-- [ ] Fine tune yolo to recorgize Road Fighter (video game) Sprites
+- [ ] Fine tune yolo to recorgize Road Fighter (video game) Sprites **Completed on [Apr-10-2026](./timeline.md#Apr-18-2026)**
 - [x] Record video of the game in integer scaled resolution
+- [x] Manually label dataset for [Game Agent 01](./models/game-agent-01/) project
+
+## Apr-18-2026
+
+- [x] Finalized and exported dataset
+- [x] Trained custom yolo11-n model using the dataset
+- [x] Tested on real game footage, worked well
+- [x] Got full potential of DSP out, transferred metadata of yolo only, no raw images/videos were transferred from camera to raspberry pi
