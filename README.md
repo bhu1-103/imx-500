@@ -32,4 +32,4 @@ Experiments with running custom YOLO and pose detection models directly on the S
 - [`./models/custom-imagenet/README.md`](./models/custom-imagenet/train.py)
 
 ### Reinforcement Learning based Game Playing agent
-- [`./models/game-agent-01/README.md`](./models/game-agent-01/README.md)
+- [`./models/game-agent-01/README.md`](./models/game-agent-01)
