@@ -18,5 +18,4 @@
 | My Computer (GTX 1060 + i5 4th gen CPU)| To fine-tune the models and to make and experiment with the algorithm                              |
 | My Laptop with stylus                  | To label the images in the dataset                                                                 | 
 
-<video src="https://raw.githubusercontent.com/bhu1-103/imx500/main/assets/video/lab.mp4" autoplay loop muted playsinline></video>
-<video src="https://github.com/bhu1-103/imx-500/blob/main/assets/video/lab.mp4" autoplay loop muted playsinline></video>
+<video src="https://github.com/user-attachments/assets/08c9a1b5-f08b-416d-9e9c-5b2d4d86a70a" autoplay loop muted playsinline></video>
