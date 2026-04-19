@@ -19,3 +19,4 @@
 | My Laptop with stylus                  | To label the images in the dataset                                                                 | 
 
 <video src="https://raw.githubusercontent.com/bhu1-103/imx500/main/assets/video/lab.mp4" autoplay loop muted playsinline></video>
+<video src="https://github.com/bhu1-103/imx-500/blob/main/assets/video/lab.mp4" autoplay loop muted playsinline></video>
