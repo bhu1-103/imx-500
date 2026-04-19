@@ -44,7 +44,7 @@
 - [x] Research what the novelty should be -> First Person Fight Assist System
 - [x] Source data for first person fighting from somewhere -> Video games like dying light should do
 - [x] Source data for roads segmentation model that can help us make a model that will segmnent roads using yolo11-n-seg
-- [ ] Develope the models **Started on [Apr-18-2026](./timeline.md#Apr-18-2026)
+- [ ] Develope the models **Started on [Apr-18-2026](./timeline.md#Apr-18-2026)** **Achieved on [Apr-19-2026](./timeline.md#Apr-19-2026)
 
 ## Jan-26-2026
 
@@ -74,3 +74,11 @@
 - [x] Trained custom yolo11-n model using the dataset
 - [x] Tested on real game footage, worked well
 - [x] Got full potential of DSP out, transferred metadata of yolo only, no raw images/videos were transferred from camera to raspberry pi
+
+## Apr-19-2026
+
+- [x] Made a basic rule based agent -> If enemy detected in same x axis as player, then suggest player to move left/right depending on the direction
+
+## Apr-20-2026
+
+- [x] Set up basic camera and display [lab]() to experiment with the setup
