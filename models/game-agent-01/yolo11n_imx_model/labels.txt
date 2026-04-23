@@ -1,0 +1,12 @@
+Enemy-Blue
+Enemy-Blue-Bad
+Enemy-Red
+Enemy-Truck
+Enemy-Yellow
+Finish-Line
+Fuel
+Lane-Marking
+Obstacle
+Player-Position
+Road-Fighter
+Start-Line
