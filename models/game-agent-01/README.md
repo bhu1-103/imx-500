@@ -12,7 +12,7 @@ A custom designed Agent that can play the game [Road Fighter](https://en.wikiped
 - [x] transfer metadata only instead of full video capture
 - [x] apply logic on metadata -> make a basic rule based agent [achieved on April 19](../../timeline.md#Apr-19-2026)
 - [x] game assistant -> suggests which direction to move to avoid crashing
-- [ ] automatic game player
+- [x] automatic game player [achieved on April 26](../../timeline.md#Apr-26-2026)
 
 ## Notes
 

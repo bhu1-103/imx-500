@@ -81,4 +81,18 @@
 
 ## Apr-20-2026
 
-- [x] Set up basic camera and display [lab]() to experiment with the setup
+- [x] Set up basic camera and display [lab](./lab.md) to experiment with the setup until Apr-24-2026
+
+## Apr-24-2026
+
+- [x] Achieved end to end loop
+- [x] Not perfect, but agent could play the game
+
+## Apr-26-2026
+
+- [ ] Started writing documentation, check [here](https://8hu.one/projects/edge_vision_pipeline_imx500_metadata_real_time_control/index.html)
+
+## Apr-28-2026
+
+- [x] Finished writing documentation.
+- [x] Recorded and edited a demo video, check [here](https://www.youtube.com/watch?v=RxO37FOcdfs)
