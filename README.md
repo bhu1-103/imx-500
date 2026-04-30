@@ -2,9 +2,15 @@
 
 Experiments with running custom YOLO and pose detection models directly on the Sony IMX500 intelligent vision sensor.
 
+## Latest work
+
+Made an agent play Road Fighter using USB HID, IMX500 and some rules. Check [here](https://github.com/bhu1-103/imx-500/tree/main/models/game-agent-01)
+I have a writeup of it on my [website](https://8hu.one/projects/auto_game_player/index.html) as well. This is better documented.
+
 ## To-do
 
 - [x] get yolo working
+- [x] make the agent play a basic game
 - [ ] transparent display (ordered, arriving in a few days)
 - [ ] make it portable, replace powerbank with lipo battery (maybe powerbank is better to avoid brownouts, etc)
 
